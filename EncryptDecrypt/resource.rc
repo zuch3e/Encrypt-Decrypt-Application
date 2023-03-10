@@ -1,0 +1,6 @@
+#include "resource.h"
+#ifndef _resource_rc
+#define _resource_rc
+MYICON1 ICON "strudel.ico"
+#endif // _resource_rc
+

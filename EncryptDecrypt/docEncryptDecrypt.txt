@@ -1,0 +1,6 @@
+*File present in the executable's path*
+
+Encryption / Decryption project made by Neleptcu Daniel-Andrei @zuch3e
+
+This is a personal project to encrypt and decrypt files with an algorithm inspired by
+vignere

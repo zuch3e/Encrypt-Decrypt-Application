@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1678456561 source:c:\users\zuch3e\desktop\haha\proiectul1\encryptdecrypt\main.cpp
+	<tchar.h>
+	<stdio.h>
+	<fstream>
+	"resource.h"
+	<windows.h>
+	<sys/stat.h>
+	<stdbool.h>
+
+1678135675 source:c:\users\zuch3e\desktop\haha\proiectul1\encryptdecrypt\resources.rc
+
+1678141225 source:c:\users\zuch3e\desktop\haha\proiectul1\encryptdecrypt\resource.rc
+	"resource.h"
+
+1678137537 c:\users\zuch3e\desktop\haha\proiectul1\encryptdecrypt\resource.h
+
