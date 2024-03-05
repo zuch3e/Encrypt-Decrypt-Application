@@ -22,7 +22,9 @@ ________________________________________________________________________________
                   "Not Responding", it is just taking longer due to the file's size.                          
 ___________________________________________________________________________________________________________   
 
+The user interface:
 
+<img src="EncryptDecrypt/abc.png" alt="results" style="height: 250px; width:500px;"/>
   This application is built in C++ and the UI is made with the WIN32 api.
   The encryption algorithm is inspired from Vigenere's cypher. Vigenere's cypher requires an alphabet and a key to encrypt/decrypt files. Consider an array containing the alphabet of length 'x'. Now, from each element of the array continue the alphabet downwards. After completing with the last letter of the original array you will start over until you reach the length 'x'.  Next, we will label the rows and columns using our alphabet.If we take the array "ABCDEFG" we end up with the following array of arrays ( a matrix ):
 
